@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gokaram Dinesh Goud
 
-**Software Developer | Backend Specialist | Data Analytics Enthusiast**
+**Software Engineer - Backend**
 
 ---
 
