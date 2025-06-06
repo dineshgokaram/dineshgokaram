@@ -66,7 +66,7 @@ Other: Flask, Numpy, JWT, Data Analysis, Problem Solving, Quality Assurance, HTM
 
 - [Online Code Editor (Full-stack)](https://github.com/dineshgokaram/online-code-editor)  
   Build and run code online with a modern, user-friendly interface.
-
+- Automated Report Gneration(https://github.com/dineshgokaram/automated-report-generation)
 - **Driver Drowsiness Detection System (Academic Project)**  
   Real-time system to detect and alert drowsy drivers using computer vision.
 
