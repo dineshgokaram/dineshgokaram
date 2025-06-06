@@ -85,6 +85,8 @@ Other: Flask, Numpy, JWT, Data Analysis, Problem Solving, Quality Assurance, HTM
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/dinesh-gokaram)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/dineshgokaram)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/u/p2w1dyD1aN/)
+[![Portfolio](https://bit.ly/43HDZf4)
+
 📧 dineshgokaram2706@gmail.com  
 📍 Hyderabad, India
 
