@@ -63,7 +63,7 @@ Other: Flask, Numpy, JWT, Data Analysis, Problem Solving, Quality Assurance, HTM
 ---
 
 ## 🚀 Featured Projects
-- RAG FAQ Chatbot for Altibbe — Retrieval-Augmented Generation based intelligent chatbot for FAQs using ChromaDB and Sentence Transformers with Flask API and n8n integration. https://github.com/dineshgokaram/rag-faq-chatbot
+- RAG FAQ Chatbot — Retrieval-Augmented Generation based intelligent chatbot for FAQs using ChromaDB and Sentence Transformers with Flask API and n8n integration. https://github.com/dineshgokaram/rag-faq-chatbot
 - [Online Code Editor (Full-stack)](https://github.com/dineshgokaram/online-code-editor)  
   Build and run code online with a modern, user-friendly interface.
 - Automated Report Generation(https://github.com/dineshgokaram/automated-report-generation)
