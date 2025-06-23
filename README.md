@@ -91,10 +91,11 @@ Portfolio https://bit.ly/43HDZf4
 📍 Hyderabad, India
 
 ---
-[https://github-readme-stats.vercel.app/api?username=dineshgokaram&theme=graywhite&show_icons=true&hide_border=true&count_private=true]
-![dineshgokaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshgokaram&theme=graywhite&hide_border=true)
-https://github-readme-stats.vercel.app/api/top-langs/?username=dineshgokaram&theme=graywhite&show_icons=true&hide_border=true&layout=compact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshgokaram&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 
+![Dinesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshgokaram&theme=graywhite&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshgokaram&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## 🌱 Fun Facts
