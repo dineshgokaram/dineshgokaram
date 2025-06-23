@@ -92,6 +92,8 @@ Portfolio https://bit.ly/43HDZf4
 
 ---
 ![image](https://github.com/user-attachments/assets/7300576c-2e61-4b0e-b9c1-9a7f464a32e1)
+![image](https://github.com/user-attachments/assets/545e8414-e776-4e21-8886-9fd2228af1a4)
+
 ---
 
 ## 🌱 Fun Facts
