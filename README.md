@@ -91,8 +91,9 @@ Portfolio https://bit.ly/43HDZf4
 📍 Hyderabad, India
 
 ---
-![image](https://github.com/user-attachments/assets/7300576c-2e61-4b0e-b9c1-9a7f464a32e1)
-![image](https://github.com/user-attachments/assets/545e8414-e776-4e21-8886-9fd2228af1a4)
+[https://github-readme-stats.vercel.app/api?username=dineshgokaram&theme=graywhite&show_icons=true&hide_border=true&count_private=true]
+![dineshgokaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshgokaram&theme=graywhite&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=dineshgokaram&theme=graywhite&show_icons=true&hide_border=true&layout=compact
 
 ---
 
