@@ -91,7 +91,7 @@ Portfolio https://bit.ly/43HDZf4
 📍 Hyderabad, India
 
 ---
-https://github-readme-stats.vercel.app/api?username=dineshgokaram&show_icons=true&hide_title=true&count_private=true&hide=prs&disable_animations=true
+![image](https://github.com/user-attachments/assets/7300576c-2e61-4b0e-b9c1-9a7f464a32e1)
 ---
 
 ## 🌱 Fun Facts
