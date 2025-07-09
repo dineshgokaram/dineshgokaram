@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gokaram Dinesh Goud
+# Hello World,
 
 **Software Engineer - Backend** 
 
