@@ -1,7 +1,5 @@
 # Hello World,
 
-**Software Engineer - Backend** 
-
 ---
 
 🚀 **About Me**
