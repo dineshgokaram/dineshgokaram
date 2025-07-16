@@ -8,7 +8,7 @@ I'm a passionate Software Developer from Hyderabad, India, with hands-on experie
 
 - 🧑‍💻 **Current Role:** Data Analytics Intern @ Codec Technology India (Remote)  
 - 🎯 **Interests:** Backend Engineering, API Development, Data Analytics  
-- 🛠️ **Tech Stack:** Python, Django, FastAPI, REST APIs, SQL, AWS,HTML, CSS, JavaScript, Pandas, Docker, Git, ETL, Power BI, MS Excel
+- 🛠️ **Tech Stack:** Python, Django, FastAPI, REST APIs, SQL, AWS, HTML, CSS, JavaScript, Pandas, Docker, Git, ETL, Power BI, MS Excel
 
 ---
 
