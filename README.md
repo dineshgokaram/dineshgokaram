@@ -7,7 +7,7 @@ I'm a software developer from Hyderabad, India, specializing in building scalabl
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-gokaram)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dineshgokaram)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=flat&logo=rss&logoColor=white)](https://dineshgokaram.github.io)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/p2w1dyD1aN/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/dineshgokaram)
 
 ---
 
@@ -30,17 +30,17 @@ This is a collection of the key technologies I use to build, test, and deploy ap
 A full-stack, containerized web application that analyzes Python code for technical debt and turns the cleanup process into an engaging game for developers. The platform features a secure JWT-based API, a live leaderboard, and a badge achievement system. This project demonstrates a deep understanding of backend architecture, database design, and real-world DevOps problem-solving.  
 **_`Tech:`_** `FastAPI, PostgreSQL, SQLAlchemy, Docker, Pandas, JWT, Python, JavaScript`
 
-### 🔍 [RAG FAQ Chatbot](https://github.com/dineshgokaram/rag-faq-chatbot)
-A Retrieval-Augmented Generation (RAG) chatbot designed to provide intelligent, context-aware answers to frequently asked questions. The system leverages vector databases and sentence transformers to understand and respond to user queries accurately.  
-**_`Tech:`_** `Flask, ChromaDB, Sentence Transformers, n8n`
+### 📊 [Chocolate Shipments Analysis Dashboard](https://github.com/dineshgokaram/powerbi-chocolate-shipments)
+An end-to-end Power BI project analyzing chocolate shipment data to drive business insights. The dashboard provides a comprehensive view of sales trends, shipment volumes, and performance across various regions and product lines. This project showcases my ability to transform raw data into a clear, interactive, and actionable business intelligence tool using DAX and advanced data modeling.  
+**_`Tech:`_** `Power BI, DAX, Data Modeling, Data Visualization`
 
-### 📊 [Automated Report Generation](https://github.com/dineshgokaram/automated-report-generation)
-An ETL pipeline built with Python that automates the process of generating insightful business reports from raw data sources. This tool streamlines data workflows and reduces manual effort in data analysis.  
+### 🧑‍💻 [Online Code Editor](https://github.com/dineshgokaram/online-code-editor)
+A full-stack web application that allows users to write, execute, and see the output of code in real-time within the browser. The application features a clean, modern frontend and a robust backend API to handle code execution securely. This project highlights my skills in building interactive, full-stack applications and creating a seamless user experience.  
+**_`Tech:`_** `Flask, Python, JavaScript, HTML, CSS`
+
+### ⚙️ [Automated Report Generation](https://github.com/dineshgokaram/automated-report-generation)
+An ETL pipeline built with Python that automates the process of generating insightful business reports from raw data sources. This tool streamlines data workflows and reduces manual effort in data analysis, demonstrating skills in data processing and workflow automation.  
 **_`Tech:`_** `Python, Pandas, SQL`
-
-### 🛑 Driver Drowsiness Detection System (Academic Project)
-A computer vision project that uses facial landmark detection in real-time to identify signs of driver drowsiness and trigger an alert.  
-**_`Tech:`_** `OpenCV, Python, Dlib`
 
 ---
 
