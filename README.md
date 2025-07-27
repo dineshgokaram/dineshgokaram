@@ -30,6 +30,10 @@ This is a collection of the key technologies I use to build, test, and deploy ap
 A full-stack, containerized web application that analyzes Python code for technical debt and turns the cleanup process into an engaging game for developers. The platform features a secure JWT-based API, a live leaderboard, and a badge achievement system. This project demonstrates a deep understanding of backend architecture, database design, and real-world DevOps problem-solving.  
 **_`Tech:`_** `FastAPI, PostgreSQL, SQLAlchemy, Docker, Pandas, JWT, Python, JavaScript`
 
+### ⭐ [Code Collaborator Platform](https://github.com/dineshgokaram/code-collaborator-platform)
+A full-stack, real-time collaborative code editor built from the ground up. This platform solves the modern challenge of remote pair-programming by allowing multiple users to simultaneously write, edit, and execute code in a shared, browser-based environment. The application features a secure, containerized execution engine using the Docker API and a high-performance WebSocket layer for instant state synchronization. This project showcases a deep, end-to-end understanding of complex system architecture, real-time communication, and security-first DevOps practices.  
+**_`Tech:`_** `FastAPI, WebSockets, Docker, JWT, Python, JavaScript, HTML, CSS`
+
 ### 📊 [Chocolate Shipments Analysis Dashboard](https://github.com/dineshgokaram/powerbi-chocolate-shipments)
 An end-to-end Power BI project analyzing chocolate shipment data to drive business insights. The dashboard provides a comprehensive view of sales trends, shipment volumes, and performance across various regions and product lines. This project showcases my ability to transform raw data into a clear, interactive, and actionable business intelligence tool using DAX and advanced data modeling.  
 **_`Tech:`_** `Power BI, DAX, Data Modeling, Data Visualization`
@@ -37,10 +41,6 @@ An end-to-end Power BI project analyzing chocolate shipment data to drive busine
 ### 🧑‍💻 [Online Code Editor](https://github.com/dineshgokaram/online-code-editor)
 A full-stack web application that allows users to write, execute, and see the output of code in real-time within the browser. The application features a clean, modern frontend and a robust backend API to handle code execution securely. This project highlights my skills in building interactive, full-stack applications and creating a seamless user experience.  
 **_`Tech:`_** `Flask, Python, JavaScript, HTML, CSS`
-
-### ⚙️ [Automated Report Generation](https://github.com/dineshgokaram/automated-report-generation)
-An ETL pipeline built with Python that automates the process of generating insightful business reports from raw data sources. This tool streamlines data workflows and reduces manual effort in data analysis, demonstrating skills in data processing and workflow automation.  
-**_`Tech:`_** `Python, Pandas, SQL`
 
 ---
 
