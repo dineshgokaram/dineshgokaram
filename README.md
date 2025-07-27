@@ -27,7 +27,7 @@ This is a collection of the key technologies I use to build, test, and deploy ap
 
 ## 🚀 Featured Projects
 
-### ⭐ [Tech-Debt Gamify](https://github.com/dineshgokaram/tech-debt-gamify)
+### ⭐ [Technical Debt Gamify](https://github.com/dineshgokaram/tech-debt-gamify)
 A full-stack, containerized web application that analyzes Python code for technical debt and turns the cleanup process into an engaging game for developers. The platform features a secure JWT-based API, a live leaderboard, and a badge achievement system. This project demonstrates a deep understanding of backend architecture, database design, and real-world DevOps problem-solving.  
 **_`Tech:`_** `FastAPI, PostgreSQL, SQLAlchemy, Docker, Pandas, JWT, Python, JavaScript`
 
