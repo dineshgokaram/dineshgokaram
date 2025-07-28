@@ -35,7 +35,7 @@ A full-stack, containerized web application that analyzes Python code for techni
 A full-stack, real-time collaborative code editor built from the ground up. This platform solves the modern challenge of remote pair-programming by allowing multiple users to simultaneously write, edit, and execute code in a shared, browser-based environment. The application features a secure, containerized execution engine using the Docker API and a high-performance WebSocket layer for instant state synchronization. This project showcases a deep, end-to-end understanding of complex system architecture, real-time communication, and security-first DevOps practices.  
 **_`Tech:`_** `FastAPI, WebSockets, Docker, JWT, Python, JavaScript, HTML, CSS`
 
-### 📊 [Chocolate Shipments Analysis Dashboard](https://github.com/dineshgokaram/powerbi-chocolate-shipments)
+### 📊 [Chocolate Shipments Analysis Dashboard]([https://github.com/dineshgokaram/powerbi-chocolate-shipments](https://github.com/dineshgokaram/powerbi_project))
 An end-to-end Power BI project analyzing chocolate shipment data to drive business insights. The dashboard provides a comprehensive view of sales trends, shipment volumes, and performance across various regions and product lines. This project showcases my ability to transform raw data into a clear, interactive, and actionable business intelligence tool using DAX and advanced data modeling.  
 **_`Tech:`_** `Power BI, DAX, Data Modeling, Data Visualization`
 
