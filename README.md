@@ -5,7 +5,6 @@
 I'm a software developer from Hyderabad, India, specializing in building scalable backend systems and turning complex data into actionable insights. I architect solutions that automate processes, deliver clean REST APIs, and provide clear, data-driven results. I am passionate about leveraging technology to solve real-world problems and thrive in collaborative, dynamic team environments.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-gokaram)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dineshgokaram)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=flat&logo=rss&logoColor=white)](https://dineshgokaram.github.io)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/dineshgokaram)
 
