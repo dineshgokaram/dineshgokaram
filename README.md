@@ -58,7 +58,7 @@ Led data analysis initiatives, developing Python automation scripts that reduced
 **Data Analyst – Cognizant Technology Solutions** _(Jul 2021 – Aug 2023)_  
 Streamlined reporting workflows and ensured high data integrity across multiple business units. Provided key analytical support that informed strategic planning and operational improvements.
 
----
+--- 
 
 ## 🎓 Education
 
