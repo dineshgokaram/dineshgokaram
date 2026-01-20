@@ -1,5 +1,5 @@
 # Hello World! 
-I'm Dinesh Gokaram  
+###I'm Dinesh Gokaram  
 
 ### Data Analyst | Business Intelligence | SQL • Power BI • Python (Pandas, NumPy)
 
