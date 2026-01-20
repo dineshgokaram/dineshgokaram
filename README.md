@@ -1,4 +1,102 @@
 # Hello World! 
+#I'm Dinesh Gokaram  
+
+### Data Analyst | Business Intelligence | SQL • Power BI • Python (Pandas, NumPy)
+
+I’m a **Data Analyst based in Hyderabad, India**, with hands-on experience in **SQL, Python analytics, Power BI, and Excel**, focused on transforming raw data into **actionable insights**.
+
+I specialize in:
+- Data cleaning, transformation, and validation  
+- KPI tracking and operational reporting  
+- Dashboarding and data visualization  
+- Automating analytics workflows using Python  
+
+I have worked in **IT services and analytics-driven environments**, supporting data-backed decision-making and improving reporting efficiency. My background in backend development helps me build **reliable, scalable data workflows**, but my primary focus is **analytics and business intelligence**.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshgokaram)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=flat&logo=rss&logoColor=white)](https://dineshgokaram.github.io)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/dineshgokaram)
+
+---
+
+## 🛠️ Skills & Tools
+
+A focused view of the tools I use for **data analysis, reporting, and analytics automation**.
+
+| Category | Technologies |
+|--------|--------------|
+| **Data Analysis & BI** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-555555?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
+| **Python Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **Data Engineering Basics** | ![ETL](https://img.shields.io/badge/ETL-orange?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| **Automation & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Backend (Supporting Skills)** | FastAPI, REST APIs, JWT |
+
+> ⚠️ Backend tools are used **to support analytics workflows**, not as a primary role focus.
+
+---
+
+## 🚀 Featured Projects (Analytics-Focused)
+
+### 📊 [Chocolate Shipments Analysis Dashboard](https://github.com/dineshgokaram/powerbi_project)
+An end-to-end **Power BI analytics project** analyzing 50,000+ shipment records to uncover sales trends, regional performance, and operational bottlenecks.  
+The dashboard enables **data-driven decision-making** through interactive KPIs, drill-downs, and DAX measures.
+
+**Tech:** `Power BI, DAX, Data Modeling, Data Visualization`
+
+---
+
+### 📄 [Automated PDF Report Generation](https://github.com/dineshgokaram/automated-report-generation)
+A Python-based automation project that processes structured datasets and generates **recurring analytical reports** in PDF format.  
+Designed to reduce manual reporting effort and improve data consistency.
+
+**Tech:** `Python, Pandas, ReportLab`
+
+---
+
+### ⭐ [Technical Debt Gamify](https://github.com/dineshgokaram/tech-debt-gamify)
+A data-driven platform that analyzes Python codebases and quantifies technical debt using structured metrics.  
+Includes ETL-style processing, analytics APIs, and dashboard-ready outputs.
+
+**Tech:** `Python, Pandas, SQL, PostgreSQL, FastAPI, Docker`
+
+---
+
+### ⭐ [Code Collaborator Platform](https://github.com/dineshgokaram/code-collaborator-platform)
+A real-time collaborative platform showcasing backend systems that **support analytics and structured data workflows**, including secure data exchange and processing.
+
+**Tech:** `Python, FastAPI, WebSockets, Docker`
+
+---
+
+## 💼 Experience Snapshot
+
+**Data Analytics Intern — Codec Technology India**  
+*May 2025 – Jul 2025*  
+- Built ETL pipelines using Python and SQL for analytics and reporting  
+- Generated automated insights from large datasets using Pandas  
+
+**Data Analyst — Innovapath IT Solutions**  
+*Feb 2024 – Sept 2024*  
+- Worked on structured data workflows supporting dashboards and reporting  
+- Automated data preparation tasks, reducing manual effort  
+
+**Data Analyst — Cognizant Technology Solutions**  
+*Jul 2021 – Aug 2023*  
+- Developed Power BI dashboards and Excel trackers for KPI monitoring  
+- Improved reporting efficiency by 25% through automation  
+
+---
+
+## 🎓 Education
+
+**M.Sc. Computer Science** — Sai Sudhir Degree & PG College  
+**B.Sc. Computer Science** — Jagruti Degree & PG College  
+
+---
+
+> _“Focused on solving business problems through data, clarity, and consistent analytics.”_
 
 ### Backend Developer | Data Analyst | Automating Workflows with Python
 
